@@ -32,8 +32,6 @@
 
 ### Saving and Loading requirements
 
-This is only needed if packages needs to be synced with e.g. collaborators or your future self
-
 1. Save a formatted list of packages in a `requirements.txt` file
 
     ```sh
@@ -64,11 +62,3 @@ This is only needed if packages needs to be synced with e.g. collaborators or yo
 
    ```sh
    git remote add origin <url_to_remote_git_repo>
-
-## Linting
-
-@todo
-
-## Formatting
-
-@todo
